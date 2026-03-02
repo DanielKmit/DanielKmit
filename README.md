@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Daniel 👋</h1>
 
 <p align="center">
-  <b>IT Infrastructure Specialist · Builder · AI-powered Developer</b><br/>
+  <b>IT Infrastructure Specialist · AI-Powered Developer · Builder</b><br/>
   📍 Bratislava, Slovakia &nbsp;·&nbsp; 💼 365 Bank &nbsp;·&nbsp; 🌐 <a href="https://wheelfriends.app">wheelfriends.app</a>
 </p>
 
@@ -10,7 +10,7 @@
 ### 🚀 About Me
 
 - 🏦 **IT Infrastructure Specialist** at **365 Bank** — Windows 11 migrations, Service Desk, incident response
-- 🤖 I use AI tools to design, build, and ship real products — fast
+- 🤖 **AI-powered developer** — I use AI to design, build, and ship real products fast
 - 📱 Shipped **[WheelFriends](https://wheelfriends.app)** — a carpooling app live on Google Play (Android + iOS coming)
 - 🎓 CCNA 1, 2, 3 certified · Network & infrastructure background
 - ⚡ Believer that knowing *what* to build matters more than memorizing syntax
