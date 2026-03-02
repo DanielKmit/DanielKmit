@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Daniel 👋</h1>
 
 <p align="center">
-  <b>IT Infrastructure Specialist · Full-Stack Developer · Mobile App Builder</b><br/>
+  <b>IT Infrastructure Specialist · Builder · AI-powered Developer</b><br/>
   📍 Bratislava, Slovakia &nbsp;·&nbsp; 💼 365 Bank &nbsp;·&nbsp; 🌐 <a href="https://wheelfriends.app">wheelfriends.app</a>
 </p>
 
@@ -9,11 +9,11 @@
 
 ### 🚀 About Me
 
-- 🏦 Working as **IT Infrastructure Specialist** at **365 Bank** — Windows 11 migrations, Service Desk, incident response
-- 📱 Built and launched **[WheelFriends](https://wheelfriends.app)** — a carpooling app for Europe (Android + iOS)
-- 🌐 Full-stack dev: **Next.js · React Native · PostgreSQL · TypeScript**
-- 🎓 CCNA 1, 2, 3 certified
-- ⚡ Always building something new
+- 🏦 **IT Infrastructure Specialist** at **365 Bank** — Windows 11 migrations, Service Desk, incident response
+- 🤖 I use AI tools to design, build, and ship real products — fast
+- 📱 Shipped **[WheelFriends](https://wheelfriends.app)** — a carpooling app live on Google Play (Android + iOS coming)
+- 🎓 CCNA 1, 2, 3 certified · Network & infrastructure background
+- ⚡ Believer that knowing *what* to build matters more than memorizing syntax
 
 ---
 
@@ -38,18 +38,16 @@
 
 <table>
   <tr>
-    <td width="60">
-      🚗
-    </td>
+    <td width="60">🚗</td>
     <td>
-      <b><a href="https://wheelfriends.app">WheelFriends</a></b><br/>
-      Carpooling platform for Europe — find rides, offer seats, split costs.<br/>
+      <b><a href="https://wheelfriends.app">WheelFriends</a></b> — Carpooling platform for Europe<br/>
+      Find rides, offer seats, split costs. Web + native mobile app.<br/>
       <code>Next.js</code> <code>React Native</code> <code>PostgreSQL</code> <code>Expo</code> <code>Stripe</code><br/>
       <a href="https://play.google.com/store/apps/details?id=com.wheelfriends.app">
         <img src="https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white"/>
       </a>
       <a href="https://wheelfriends.app">
-        <img src="https://img.shields.io/badge/Web_App-0ea5e9?style=flat&logo=globe&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Live_App-0ea5e9?style=flat&logoColor=white"/>
       </a>
     </td>
   </tr>
@@ -72,6 +70,6 @@
   </a>
   &nbsp;
   <a href="https://wheelfriends.app">
-    <img src="https://img.shields.io/badge/WheelFriends-0ea5e9?style=flat&logo=car&logoColor=white"/>
+    <img src="https://img.shields.io/badge/WheelFriends-0ea5e9?style=flat&logoColor=white"/>
   </a>
 </p>
