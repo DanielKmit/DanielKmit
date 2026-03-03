@@ -9,26 +9,28 @@
 
 ### 🚀 About Me
 
-- 🏦 **IT Infrastructure Specialist** at **365 Bank** — Windows 11 migrations, Service Desk, incident response
-- 🤖 **AI-powered developer** — I use AI to design, build, and ship real products fast
-- 📱 Shipped **[WheelFriends](https://wheelfriends.app)** — a carpooling app live on Google Play (Android + iOS coming)
-- 🎓 CCNA 1, 2, 3 certified · Network & infrastructure background
+- 🏦 **IT Infrastructure Specialist** at **365 Bank** — Windows 11 migrations, incident management, cross-functional IT projects
+- 🤖 **AI-assisted builder** — I use AI to design, build, and ship full products end-to-end
+- 📱 Shipped **[WheelFriends](https://wheelfriends.app)** — a carpooling platform, live on Google Play & pending App Store approval
+- 🎓 **CCNA 1, 2 & 3** certified — network & infrastructure background
 - ⚡ Believer that knowing *what* to build matters more than memorizing syntax
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Languages**
+**Languages** *(Advanced → Intermediate)*
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white"/>
 </p>
 
 **Frameworks & Libraries**
@@ -46,15 +48,16 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=flat&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cisco_CCNA-1BA0D7?style=flat&logo=cisco&logoColor=white"/>
 </p>
 
-**Tools**
+**Tools & Platforms**
 <p>
+  <img src="https://img.shields.io/badge/AI_Tools_%26_Prompt_Eng.-FF6B35?style=flat&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=flat&logo=microsoftoffice&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/Stripe-008CDD?style=flat&logo=stripe&logoColor=white"/>
 </p>
 
@@ -67,7 +70,7 @@
     <td width="60">🚗</td>
     <td>
       <b><a href="https://wheelfriends.app">WheelFriends</a></b> — Carpooling platform for Europe<br/>
-      Find rides, offer seats, split costs. Web + native mobile app.<br/>
+      Find rides, offer seats, split costs. Full-stack web app + native mobile app.<br/>
       <code>Next.js</code> <code>React Native</code> <code>PostgreSQL</code> <code>Expo</code> <code>Stripe</code><br/>
       <a href="https://play.google.com/store/apps/details?id=com.wheelfriends.app">
         <img src="https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white"/>
@@ -93,6 +96,10 @@
 <p align="center">
   <a href="mailto:daniel5.kmit@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/danielkmit">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://wheelfriends.app">
