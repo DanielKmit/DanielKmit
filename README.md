@@ -1,19 +1,27 @@
-<h1 align="center">Hey, I'm Daniel 👋</h1>
+<h1 align="center">Daniel Kmiť</h1>
 
 <p align="center">
-  <b>IT Infrastructure Specialist · AI-Powered Developer · Builder</b><br/>
-  📍 Bratislava, Slovakia &nbsp;·&nbsp; 💼 365 Bank &nbsp;·&nbsp; 🌐 <a href="https://wheelfriends.app">wheelfriends.app</a>
+  <b>IT Infrastructure · Full-Stack Development · AI Engineering</b><br/>
+  📍 Bratislava, Slovakia &nbsp;·&nbsp; 💼 <a href="https://365.bank">365 Bank</a> &nbsp;·&nbsp; 🌐 <a href="https://wheelfriends.app">wheelfriends.app</a>
+</p>
+
+<p align="center">
+  <a href="mailto:daniel5.kmit@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://linkedin.com/in/danielkmit"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://wheelfriends.app"><img src="https://img.shields.io/badge/WheelFriends-0ea5e9?style=flat&logoColor=white"/></a>
 </p>
 
 ---
 
-### 🚀 About Me
+### About Me
 
-- 🏦 **IT Infrastructure Specialist** at **365 Bank** — Windows 11 migrations, incident management, cross-functional IT projects
-- 🤖 **AI-assisted builder** — I use AI to design, build, and ship full products end-to-end
-- 📱 Shipped **[WheelFriends](https://wheelfriends.app)** — a carpooling platform, live on Google Play & pending App Store approval
-- 🎓 **CCNA 1, 2 & 3** certified — network & infrastructure background
-- ⚡ Believer that knowing *what* to build matters more than memorizing syntax
+IT professional with a background in network infrastructure (CCNA 1–3) and a strong drive for building real software products. I work as IT Infrastructure Specialist at **365 Bank**, where I lead migrations, manage incidents, and coordinate cross-functional projects.
+
+Outside of work I build. **WheelFriends** — a full-stack carpooling platform for Europe — is my proof of concept: web app, native mobile app, payments, push notifications, auth, admin dashboard. Designed, built, and shipped solo.
+
+I have hands-on experience applying **large language models and AI tooling** in real product development — from prompt engineering and LLM API integration to using AI to dramatically accelerate build cycles.
 
 ---
 
@@ -23,10 +31,10 @@
 <p>
   <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white"/>
@@ -51,9 +59,10 @@
   <img src="https://img.shields.io/badge/Cisco_CCNA-1BA0D7?style=flat&logo=cisco&logoColor=white"/>
 </p>
 
-**Tools & Platforms**
+**AI & Tools**
 <p>
-  <img src="https://img.shields.io/badge/AI_Tools_%26_Prompt_Eng.-FF6B35?style=flat&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLM_Integration-FF6B35?style=flat&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=flat&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=flat&logo=microsoftoffice&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
@@ -67,16 +76,18 @@
 
 <table>
   <tr>
-    <td width="60">🚗</td>
     <td>
       <b><a href="https://wheelfriends.app">WheelFriends</a></b> — Carpooling platform for Europe<br/>
-      Find rides, offer seats, split costs. Full-stack web app + native mobile app.<br/>
-      <code>Next.js</code> <code>React Native</code> <code>PostgreSQL</code> <code>Expo</code> <code>Stripe</code><br/>
+      <br/>
+      Full-stack product built and shipped solo. Riders can find or offer seats, chat in real-time, book and pay. Includes a web app, Android & iOS native apps, admin dashboard, email notifications, push notifications, and Stripe payments.<br/>
+      <br/>
+      <code>Next.js</code> <code>React Native</code> <code>PostgreSQL</code> <code>NextAuth</code> <code>Expo</code> <code>Stripe</code> <code>Resend</code><br/>
+      <br/>
       <a href="https://play.google.com/store/apps/details?id=com.wheelfriends.app">
         <img src="https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white"/>
       </a>
       <a href="https://wheelfriends.app">
-        <img src="https://img.shields.io/badge/Live_App-0ea5e9?style=flat&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Live_Web_App-0ea5e9?style=flat&logoColor=white"/>
       </a>
     </td>
   </tr>
@@ -89,20 +100,4 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DanielKmit&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielKmit&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
----
-
-<p align="center">
-  <a href="mailto:daniel5.kmit@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/danielkmit">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://wheelfriends.app">
-    <img src="https://img.shields.io/badge/WheelFriends-0ea5e9?style=flat&logoColor=white"/>
-  </a>
 </p>
