@@ -19,7 +19,7 @@
 
 ### 🛠️ Tech Stack
 
-**Languages** *(Advanced → Intermediate)*
+**Languages**
 <p>
   <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
