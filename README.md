@@ -19,7 +19,7 @@
 
 IT professional with a background in network infrastructure (CCNA 1–3) and a strong drive for building real software products. I work as IT Infrastructure Specialist at **365 Bank**, where I handle Windows migrations, incident resolution, and day-to-day IT support across the organization.
 
-Outside of work I build. **WheelFriends** — a full-stack carpooling platform for Europe — is my proof of concept: web app, native mobile app, payments, push notifications, auth, admin dashboard. Designed, built, and shipped solo.
+Outside of work I build. **WheelFriends** — a full-stack carpooling platform — is my proof of concept: web app, native mobile app, payments, push notifications, auth, admin dashboard. Designed, built, and shipped solo.
 
 I have hands-on experience applying **large language models and AI tooling** in real product development — from prompt engineering and LLM API integration to using AI to dramatically accelerate build cycles.
 
