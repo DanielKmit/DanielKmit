@@ -1,7 +1,7 @@
 <h1 align="center">Daniel Kmiť</h1>
 
 <p align="center">
-  <b>IT Infrastructure · Full-Stack Development · AI Engineering</b><br/>
+  <b>IT Infrastructure · AI Engineering · Full-Stack Development</b><br/>
   📍 Bratislava, Slovakia &nbsp;·&nbsp; 💼 <a href="https://365.bank">365 Bank</a> &nbsp;·&nbsp; 🌐 <a href="https://wheelfriends.app">wheelfriends.app</a>
 </p>
 
