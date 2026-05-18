@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>AI Agent & Workflow Automation Developer · Full-Stack Product Builder</b><br/>
-  📍 Bratislava, Slovakia &nbsp;·&nbsp; 🌐 <a href="https://daniel-kmit.dev">daniel-kmit.dev</a> &nbsp;·&nbsp; 🚗 <a href="https://wheelfriends.app">wheelfriends.app</a>
+  📍 Bratislava, Slovakia &nbsp;·&nbsp; 🌐 <a href="https://daniel-kmit-portfolio.vercel.app">daniel-kmit-portfolio.vercel.app</a> &nbsp;·&nbsp; 🚗 <a href="https://wheelfriends.app">wheelfriends.app</a>
 </p>
 
 <p align="center">
@@ -10,35 +10,10 @@
   &nbsp;
   <a href="https://linkedin.com/in/danielkmit"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
   &nbsp;
-  <a href="https://daniel-kmit.dev"><img src="https://img.shields.io/badge/Portfolio-22D3EE?style=flat&logoColor=0F172A"/></a>
+  <a href="https://daniel-kmit-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-22D3EE?style=flat&logoColor=0F172A"/></a>
   &nbsp;
   <a href="https://wheelfriends.app"><img src="https://img.shields.io/badge/WheelFriends-0ea5e9?style=flat&logoColor=white"/></a>
 </p>
-
----
-
-### 2026 Focus
-
-<table>
-  <tr>
-    <td width="25%">
-      <b>Building</b><br/><br/>
-      Practical AI agents for coding support, job search, email automation, and productivity workflows.
-    </td>
-    <td width="25%">
-      <b>Automating</b><br/><br/>
-      Workflows that connect LLMs, APIs, tools, structured outputs, and human review.
-    </td>
-    <td width="25%">
-      <b>Shipping</b><br/><br/>
-      Full-stack products with Next.js, React Native, PostgreSQL, Vercel, and automation layers.
-    </td>
-    <td width="25%">
-      <b>Growing toward</b><br/><br/>
-      AI Automation Engineer, AI Workflow Engineer, AI Agent Developer, and AI-focused full-stack roles.
-    </td>
-  </tr>
-</table>
 
 ---
 
