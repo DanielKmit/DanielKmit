@@ -24,8 +24,8 @@
 
 <br clear="right"/>
 
-<p align="center">
-  🤖 <b>AI Agents</b> · ⚙️ <b>Workflow Automation</b> · 🧩 <b>Full-Stack Products</b> · ✨ <b>Human-in-the-loop AI</b>
+<p align="left">
+  🤖 <b>AI Agents</b> · ⚙️ <b>Workflow Automation</b> · 🧩 <b>Full-Stack Products</b> 
 </p>
 
 ---
