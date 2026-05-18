@@ -1,7 +1,7 @@
 <h1 align="center">Daniel Kmiť</h1>
 
 <p align="center">
-  <b>IT Infrastructure Specialist · AI Agents & Workflow Automation Builder · Full-Stack Product Maker
+  <b>IT Infrastructure Specialist · AI Agents & Workflow Automation Builder · Full-Stack Product Maker</b>
 </p>
 
 <p align="center">
@@ -32,7 +32,7 @@
 
 ### 🧠 About Me
 
-I’m Daniel Kmiť, an **AI Automation & Full-Stack Buiilder** focused on practical AI agents, workflow automation, and full-stack products. I build systems that use **LLMs, APIs, prompt engineering, OpenClaw, n8n, PostgreSQL, Next.js, React Native, and automation workflows** to solve real problems.
+I’m Daniel Kmiť, an **AI Automation & Full-Stack Builder** focused on practical AI agents, workflow automation, and full-stack products. I build systems that use **LLMs, APIs, prompt engineering, OpenClaw, n8n, PostgreSQL, Next.js, React Native, and automation workflows** to solve real problems.
 
 My main product proof is **WheelFriends**, a full-stack carpooling platform for Europe that I designed, built, and shipped independently across web and mobile.
 
