@@ -1,8 +1,7 @@
 <h1 align="center">Daniel Kmiť</h1>
 
 <p align="center">
-  <b>AI Agent & Workflow Automation Developer · Full-Stack Product Builder</b><br/>
-  📍 Bratislava, Slovakia &nbsp;·&nbsp; 🌐 <a href="https://daniel-kmit-portfolio.vercel.app">daniel-kmit-portfolio.vercel.app</a> &nbsp;·&nbsp; 🚗 <a href="https://wheelfriends.app">wheelfriends.app</a>
+  <b>AI Agent & Workflow Automation Developer · Full-Stack Product Builder</b>
 </p>
 
 <p align="center">
@@ -15,33 +14,25 @@
   <a href="https://wheelfriends.app"><img src="https://img.shields.io/badge/WheelFriends-0ea5e9?style=flat&logoColor=white"/></a>
 </p>
 
-<table>
-  <tr>
-    <td valign="top" width="58%">
-      <ul>
-        <li>🌍 <b>Based in Bratislava, Slovakia</b></li>
-        <li>💻 <b>Explore my work:</b> <a href="https://daniel-kmit-portfolio.vercel.app">Portfolio</a></li>
-        <li>📧 <b>Contact me @:</b> <a href="mailto:daniel5.kmit@gmail.com">daniel5.kmit@gmail.com</a></li>
-        <li>🤖 <b>Currently building AI agents and workflow automations</b></li>
-        <li>🧠 Orchestrating LLMs, APIs, and human review into practical software workflows.</li>
-        <li>⚡ Scaling product ideas with full-stack engineering, automation, and clean deployment.</li>
-      </ul>
-    </td>
-    <td align="right" valign="top" width="42%">
-      <img src="assets/developer-workstation.gif" alt="Animated developer workstation illustration" width="320"/>
-    </td>
-  </tr>
-</table>
+<img align="right" src="assets/developer-workstation.gif" alt="Animated developer workstation illustration" width="330"/>
+
+- 🌍 **Based in Bratislava, Slovakia**
+- 🤖 **Currently building AI agents and workflow automations**
+- 🧠 Orchestrating LLMs, APIs, and human review into practical software workflows.
+- 🦾 Using **OpenClaw** and **n8n** to connect AI models with real tools and services.
+- ⚡ Scaling product ideas with full-stack engineering, automation, and clean deployment.
+
+<br clear="right"/>
 
 <p align="center">
-  <code> AI Agents</code> · <code>◌ Workflow Automation</code> · <code>▹ Full-Stack Products</code> · <code>✦ Human-in-the-loop AI</code>
+  🤖 <b>AI Agents</b> · ⚙️ <b>Workflow Automation</b> · 🧩 <b>Full-Stack Products</b> · ✨ <b>Human-in-the-loop AI</b>
 </p>
 
 ---
 
-### About Me
+### 🧠 About Me
 
-I’m Daniel Kmiť, an **AI Automation & Full-Stack Developer** focused on practical AI agents, workflow automation, and full-stack products. I build systems that use **LLMs, APIs, prompt engineering, PostgreSQL, Next.js, React Native, and automation workflows** to solve real problems.
+I’m Daniel Kmiť, an **AI Automation & Full-Stack Developer** focused on practical AI agents, workflow automation, and full-stack products. I build systems that use **LLMs, APIs, prompt engineering, OpenClaw, n8n, PostgreSQL, Next.js, React Native, and automation workflows** to solve real problems.
 
 My main product proof is **WheelFriends**, a full-stack carpooling platform for Europe that I designed, built, and shipped independently across web and mobile.
 
@@ -89,7 +80,7 @@ I build and experiment with **practical AI agents** that help with real work ins
 
 ---
 
-### ◇ Featured Product
+### 🚗 Featured Product
 
 <table>
   <tr>
@@ -167,7 +158,7 @@ I use AI tools and agents to accelerate software development: debugging, generat
 
 ---
 
-### ▹ Roles I’m Targeting
+### 🎯 Roles I’m Targeting
 
 `AI Automation Engineer` · `AI Workflow Engineer` · `AI Agent Developer` · `Junior AI Engineer` · `LLM Integration` · `AI Product Engineer` · `Full-Stack Developer with AI focus` · `Automation Developer`
 
