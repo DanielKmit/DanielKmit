@@ -35,10 +35,10 @@ I build and experiment with **practical AI agents** that help with real work ins
   <tr>
     <td width="33%">
       <b>AI Coding / App Development Agent</b><br/><br/>
-      Agent-assisted workflow for architecture planning, debugging, refactoring, code generation, feature breakdowns, and rapid prototyping.
+      Agent-assisted workflow for debugging, refactoring, feature breakdowns, code review, and rapid prototyping.
       <br/><br/>
       <b>Proves:</b> AI-assisted engineering, product thinking, debugging, and faster full-stack delivery.<br/><br/>
-      <code>ChatGPT</code> <code>Claude</code> <code>Cursor</code> <code>GitHub Copilot</code> <code>Code Review</code>
+      <code>ChatGPT</code> <code>Claude</code> <code>Cursor</code> <code>My AI Agents</code> <code>Code Review</code>
     </td>
     <td width="33%">
       <b>AI Job Search Agent</b><br/><br/>
@@ -92,55 +92,55 @@ I build and experiment with **practical AI agents** that help with real work ins
 
 ### AI-Assisted Development Workflow
 
-I use AI tools and agents to accelerate software development: planning features, comparing architectures, debugging, generating prototypes, refactoring, writing implementation steps, and automating repetitive development tasks.
+I use AI tools and agents to accelerate software development: debugging, generating prototypes, refactoring, writing implementation steps, reviewing code, and automating repetitive development tasks.
 
-<code>ChatGPT</code> <code>Claude</code> <code>Cursor</code> <code>GitHub Copilot</code> <code>OpenAI API</code> <code>Prompt Engineering</code> <code>AI Agents</code> <code>Workflow Automation</code>
+<code>ChatGPT</code> <code>Claude</code> <code>Cursor</code> <code>My AI Agents</code> <code>Workflow Automation</code>
 
 ---
 
 ### Tech Stack
 
-**AI & Automation**
+**Languages**
 <p>
-  <img src="https://img.shields.io/badge/AI_Agents-22D3EE?style=flat&logoColor=0F172A"/>
-  <img src="https://img.shields.io/badge/LLMs-22D3EE?style=flat&logo=openai&logoColor=0F172A"/>
-  <img src="https://img.shields.io/badge/Prompt_Engineering-22D3EE?style=flat&logo=openai&logoColor=0F172A"/>
-  <img src="https://img.shields.io/badge/OpenAI_API-22D3EE?style=flat&logo=openai&logoColor=0F172A"/>
-  <img src="https://img.shields.io/badge/Workflow_Automation-22D3EE?style=flat&logoColor=0F172A"/>
-  <img src="https://img.shields.io/badge/API_Integrations-22D3EE?style=flat&logoColor=0F172A"/>
-</p>
-
-**Full-Stack Development**
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-</p>
-
-**Backend & Data**
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_APIs-64748B?style=flat&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Auth-64748B?style=flat&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Stripe-008CDD?style=flat&logo=stripe&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Real--time_Messaging-64748B?style=flat&logoColor=white"/>
-</p>
-
-**Infrastructure & Tools**
-<p>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft_365-0078D4?style=flat&logo=microsoft&logoColor=white"/>
+</p>
+
+**Frameworks & Libraries**
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white"/>
+</p>
+
+**Databases & Infrastructure**
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=flat&logo=windows&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cisco_CCNA-1BA0D7?style=flat&logo=cisco&logoColor=white"/>
+</p>
+
+**AI & Tools**
+<p>
+  <img src="https://img.shields.io/badge/ChatGPT-22D3EE?style=flat&logo=openai&logoColor=0F172A"/>
+  <img src="https://img.shields.io/badge/Claude-64748B?style=flat&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=flat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/My_AI_Agents-22D3EE?style=flat&logoColor=0F172A"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Stripe-008CDD?style=flat&logo=stripe&logoColor=white"/>
 </p>
 
 ---
