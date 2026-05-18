@@ -29,30 +29,41 @@ Alongside development, I work as an **IT Infrastructure Specialist at 365 Bank**
 
 ### AI Agents & Workflow Automation
 
+I build and experiment with **practical AI agents** that help with real work instead of only acting as demos. My focus is on agents that can understand a task, use context, connect to tools or APIs, produce useful outputs, and keep a human in control where review is needed.
+
 <table>
   <tr>
     <td width="33%">
       <b>AI Coding / App Development Agent</b><br/><br/>
-      Agent-assisted workflow for architecture planning, debugging, refactoring, code generation, and rapid prototyping.
+      Agent-assisted workflow for architecture planning, debugging, refactoring, code generation, feature breakdowns, and rapid prototyping.
       <br/><br/>
-      <code>ChatGPT</code> <code>Claude</code> <code>Cursor</code> <code>GitHub Copilot</code>
+      <b>Proves:</b> AI-assisted engineering, product thinking, debugging, and faster full-stack delivery.<br/><br/>
+      <code>ChatGPT</code> <code>Claude</code> <code>Cursor</code> <code>GitHub Copilot</code> <code>Code Review</code>
     </td>
     <td width="33%">
       <b>AI Job Search Agent</b><br/><br/>
-      Automation that scans job opportunities, filters roles by preferences, summarizes fit, and helps track applications.
+      Automation that scans job opportunities, filters roles by preferences, summarizes fit, compares requirements, and helps track applications.
       <br/><br/>
-      <code>LLMs</code> <code>Prompt Engineering</code> <code>APIs</code> <code>Workflow Logic</code>
+      <b>Proves:</b> workflow design, ranking/filtering logic, structured outputs, and practical automation.<br/><br/>
+      <code>LLMs</code> <code>Prompt Engineering</code> <code>APIs</code> <code>Workflow Logic</code> <code>Tracking</code>
     </td>
     <td width="33%">
       <b>AI Email Automation Agent</b><br/><br/>
-      Agent concept for reading, summarizing, classifying, and helping draft replies to emails.
+      Agent concept for reading, summarizing, classifying, prioritizing, and helping draft replies to emails with clear context.
       <br/><br/>
-      <code>LLMs</code> <code>Classification</code> <code>Summaries</code> <code>Reply Drafting</code>
+      <b>Proves:</b> classification, summarization, natural-language workflows, and productivity automation.<br/><br/>
+      <code>LLMs</code> <code>Classification</code> <code>Summaries</code> <code>Reply Drafting</code> <code>Productivity</code>
     </td>
   </tr>
 </table>
 
-I also experiment with **OpenClaw / n8n-style workflows** that connect AI models, APIs, tools, and human review into useful multi-step automations.
+**Agent workflow patterns I’m exploring**
+
+- Multi-step workflows that combine LLM reasoning, API calls, tool usage, and structured outputs
+- Human-in-the-loop review for emails, decisions, generated code, and important actions
+- Prompt engineering for reliable summaries, classifications, plans, and task execution
+- OpenClaw / n8n-style automations that connect AI models with external tools and services
+- AI features for WheelFriends such as smarter ride matching, support, moderation, and operational automation
 
 ---
 
