@@ -1,7 +1,7 @@
 <h1 align="center">Daniel Kmiť</h1>
 
 <p align="center">
-  <b>AI Agent & Workflow Automation Developer · Full-Stack Product Builder</b>
+  <b>IT Infrastructure Specialist · AI Agents & Workflow Automation Builder · Full-Stack Product Builder
 </p>
 
 <p align="center">
