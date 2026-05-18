@@ -103,14 +103,6 @@ I build and experiment with **practical AI agents** that help with real work ins
 
 ---
 
-### 🤖 AI-Assisted Development Workflow
-
-I use AI tools and agents to accelerate software development: debugging, generating prototypes, refactoring, writing implementation steps, reviewing code, and automating repetitive development tasks.
-
-<code>ChatGPT</code> <code>Claude</code> <code>Cursor</code> <code>My AI Agents</code> <code>Workflow Automation</code>
-
----
-
 ### 🛠️ Tech Stack
 
 **Languages**
@@ -157,9 +149,3 @@ I use AI tools and agents to accelerate software development: debugging, generat
 </p>
 
 ---
-
----
-
-<p align="center">
-  <b>✦ Building useful AI systems, one workflow at a time ✦</b>
-</p>
