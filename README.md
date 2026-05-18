@@ -34,12 +34,12 @@
 </table>
 
 <p align="center">
-  <code>◇ AI Agents</code> · <code>◌ Workflow Automation</code> · <code>▹ Full-Stack Products</code> · <code>✦ Human-in-the-loop AI</code>
+  <code> AI Agents</code> · <code>◌ Workflow Automation</code> · <code>▹ Full-Stack Products</code> · <code>✦ Human-in-the-loop AI</code>
 </p>
 
 ---
 
-### ◌ About Me
+### About Me
 
 I’m Daniel Kmiť, an **AI Automation & Full-Stack Developer** focused on practical AI agents, workflow automation, and full-stack products. I build systems that use **LLMs, APIs, prompt engineering, PostgreSQL, Next.js, React Native, and automation workflows** to solve real problems.
 
