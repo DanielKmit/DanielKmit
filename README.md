@@ -6,14 +6,6 @@
 </p>
 
 <p align="center">
-  <img src="assets/developer-workstation.gif" alt="Animated developer workstation illustration" width="680"/>
-</p>
-
-<p align="center">
-  <code>◇ AI Agents</code> · <code>◌ Workflow Automation</code> · <code>▹ Full-Stack Products</code> · <code>✦ Human-in-the-loop AI</code>
-</p>
-
-<p align="center">
   <a href="mailto:daniel5.kmit@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   &nbsp;
   <a href="https://linkedin.com/in/danielkmit"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
@@ -21,6 +13,28 @@
   <a href="https://daniel-kmit-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-22D3EE?style=flat&logoColor=0F172A"/></a>
   &nbsp;
   <a href="https://wheelfriends.app"><img src="https://img.shields.io/badge/WheelFriends-0ea5e9?style=flat&logoColor=white"/></a>
+</p>
+
+<table>
+  <tr>
+    <td valign="top" width="58%">
+      <ul>
+        <li>🌍 <b>Based in Bratislava, Slovakia</b></li>
+        <li>💻 <b>Explore my work:</b> <a href="https://daniel-kmit-portfolio.vercel.app">Portfolio</a></li>
+        <li>📧 <b>Contact me @:</b> <a href="mailto:daniel5.kmit@gmail.com">daniel5.kmit@gmail.com</a></li>
+        <li>🤖 <b>Currently building AI agents and workflow automations</b></li>
+        <li>🧠 Orchestrating LLMs, APIs, and human review into practical software workflows.</li>
+        <li>⚡ Scaling product ideas with full-stack engineering, automation, and clean deployment.</li>
+      </ul>
+    </td>
+    <td align="right" valign="top" width="42%">
+      <img src="assets/developer-workstation.gif" alt="Animated developer workstation illustration" width="320"/>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <code>◇ AI Agents</code> · <code>◌ Workflow Automation</code> · <code>▹ Full-Stack Products</code> · <code>✦ Human-in-the-loop AI</code>
 </p>
 
 ---
