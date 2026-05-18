@@ -17,6 +17,31 @@
 
 ---
 
+### 2026 Focus
+
+<table>
+  <tr>
+    <td width="25%">
+      <b>Building</b><br/><br/>
+      Practical AI agents for coding support, job search, email automation, and productivity workflows.
+    </td>
+    <td width="25%">
+      <b>Automating</b><br/><br/>
+      Workflows that connect LLMs, APIs, tools, structured outputs, and human review.
+    </td>
+    <td width="25%">
+      <b>Shipping</b><br/><br/>
+      Full-stack products with Next.js, React Native, PostgreSQL, Vercel, and automation layers.
+    </td>
+    <td width="25%">
+      <b>Growing toward</b><br/><br/>
+      AI Automation Engineer, AI Workflow Engineer, AI Agent Developer, and AI-focused full-stack roles.
+    </td>
+  </tr>
+</table>
+
+---
+
 ### About Me
 
 I’m Daniel Kmiť, an **AI Automation & Full-Stack Developer** focused on practical AI agents, workflow automation, and full-stack products. I build systems that use **LLMs, APIs, prompt engineering, PostgreSQL, Next.js, React Native, and automation workflows** to solve real problems.
