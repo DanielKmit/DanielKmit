@@ -23,7 +23,6 @@
 - ⚡ Scaling product ideas with full-stack engineering, automation, and clean deployment.
 
 <br clear="right"/>
-
 <p align="left">
   🤖 <b>AI Agents</b> · ⚙️ <b>Workflow Automation</b> · 🧩 <b>Full-Stack Products</b> 
 </p>
