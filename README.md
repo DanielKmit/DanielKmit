@@ -6,6 +6,14 @@
 </p>
 
 <p align="center">
+  <img src="assets/developer-workstation.gif" alt="Animated developer workstation illustration" width="680"/>
+</p>
+
+<p align="center">
+  <code>◇ AI Agents</code> · <code>◌ Workflow Automation</code> · <code>▹ Full-Stack Products</code> · <code>✦ Human-in-the-loop AI</code>
+</p>
+
+<p align="center">
   <a href="mailto:daniel5.kmit@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   &nbsp;
   <a href="https://linkedin.com/in/danielkmit"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
@@ -17,7 +25,7 @@
 
 ---
 
-### About Me
+### ◌ About Me
 
 I’m Daniel Kmiť, an **AI Automation & Full-Stack Developer** focused on practical AI agents, workflow automation, and full-stack products. I build systems that use **LLMs, APIs, prompt engineering, PostgreSQL, Next.js, React Native, and automation workflows** to solve real problems.
 
@@ -27,7 +35,7 @@ Alongside development, I work as an **IT Infrastructure Specialist at 365 Bank**
 
 ---
 
-### AI Agents & Workflow Automation
+### ✨ AI Agents & Workflow Automation
 
 I build and experiment with **practical AI agents** that help with real work instead of only acting as demos. My focus is on agents that can understand a task, use context, connect to tools or APIs, produce useful outputs, and keep a human in control where review is needed.
 
@@ -67,7 +75,7 @@ I build and experiment with **practical AI agents** that help with real work ins
 
 ---
 
-### Featured Product
+### ◇ Featured Product
 
 <table>
   <tr>
@@ -90,7 +98,7 @@ I build and experiment with **practical AI agents** that help with real work ins
 
 ---
 
-### AI-Assisted Development Workflow
+### 🤖 AI-Assisted Development Workflow
 
 I use AI tools and agents to accelerate software development: debugging, generating prototypes, refactoring, writing implementation steps, reviewing code, and automating repetitive development tasks.
 
@@ -98,7 +106,7 @@ I use AI tools and agents to accelerate software development: debugging, generat
 
 ---
 
-### Tech Stack
+### 🛠️ Tech Stack
 
 **Languages**
 <p>
@@ -145,8 +153,14 @@ I use AI tools and agents to accelerate software development: debugging, generat
 
 ---
 
-### Roles I’m Targeting
+### ▹ Roles I’m Targeting
 
 `AI Automation Engineer` · `AI Workflow Engineer` · `AI Agent Developer` · `Junior AI Engineer` · `LLM Integration` · `AI Product Engineer` · `Full-Stack Developer with AI focus` · `Automation Developer`
 
 ---
+
+---
+
+<p align="center">
+  <b>✦ Building useful AI systems, one workflow at a time ✦</b>
+</p>
