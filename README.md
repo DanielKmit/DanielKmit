@@ -25,6 +25,29 @@ I have hands-on experience applying **large language models and AI tooling** in 
 
 ---
 
+### 📦 Featured Project
+
+<table>
+  <tr>
+    <td>
+      <b><a href="https://wheelfriends.app">WheelFriends</a></b> — Carpooling platform for Europe<br/>
+      <br/>
+      Full-stack product built and shipped solo. Riders can find or offer seats, chat in real-time, book and pay. Includes a web app, Android & iOS native apps, admin dashboard, email notifications, push notifications, and Stripe payments.<br/>
+      <br/>
+      <code>Next.js</code> <code>React Native</code> <code>PostgreSQL</code> <code>NextAuth</code> <code>Expo</code> <code>Stripe</code> <code>Resend</code><br/>
+      <br/>
+      <a href="https://play.google.com/store/apps/details?id=com.wheelfriends.app">
+        <img src="https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white"/>
+      </a>
+      <a href="https://wheelfriends.app">
+        <img src="https://img.shields.io/badge/Live_Web_App-0ea5e9?style=flat&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 🛠️ Tech Stack
 
 **Languages**
@@ -63,36 +86,11 @@ I have hands-on experience applying **large language models and AI tooling** in 
 <p>
   <img src="https://img.shields.io/badge/LLM_Integration-FF6B35?style=flat&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=flat&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=flat&logo=microsoftoffice&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/Stripe-008CDD?style=flat&logo=stripe&logoColor=white"/>
 </p>
-
----
-
-### 📦 Featured Project
-
-<table>
-  <tr>
-    <td>
-      <b><a href="https://wheelfriends.app">WheelFriends</a></b> — Carpooling platform for Europe<br/>
-      <br/>
-      Full-stack product built and shipped solo. Riders can find or offer seats, chat in real-time, book and pay. Includes a web app, Android & iOS native apps, admin dashboard, email notifications, push notifications, and Stripe payments.<br/>
-      <br/>
-      <code>Next.js</code> <code>React Native</code> <code>PostgreSQL</code> <code>NextAuth</code> <code>Expo</code> <code>Stripe</code> <code>Resend</code><br/>
-      <br/>
-      <a href="https://play.google.com/store/apps/details?id=com.wheelfriends.app">
-        <img src="https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white"/>
-      </a>
-      <a href="https://wheelfriends.app">
-        <img src="https://img.shields.io/badge/Live_Web_App-0ea5e9?style=flat&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
 ---
 
 ### 📊 GitHub Stats
