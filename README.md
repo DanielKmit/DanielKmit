@@ -22,11 +22,9 @@
 - 🦾 Using **OpenClaw** and **n8n** to connect AI models with real tools and services.
 - ⚡ Scaling product ideas with full-stack engineering, automation, and clean deployment.
 
-<br clear="right"/>
-
-<br align="left">
+<p align="left">
   🤖 <b>AI Agents</b> · ⚙️ <b>Workflow Automation</b> · 🧩 <b>Full-Stack Products</b> 
-</br>
+</p>
 
 ---
 
