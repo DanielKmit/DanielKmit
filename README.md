@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>AI Engineering · Full-Stack Development · IT Infrastructure</b><br/>
-  📍 Bratislava, Slovakia &nbsp;·&nbsp; 💼 <a href="https://365.bank">365 Bank</a> &nbsp;·&nbsp; 🌐 <a href="https://wheelfriends.app">wheelfriends.app</a>
+  📍 Bratislava, Slovakia &nbsp;·&nbsp; 🌐 <a href="https://wheelfriends.app">wheelfriends.app</a>
 </p>
 
 <p align="center">
