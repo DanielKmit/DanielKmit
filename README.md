@@ -51,21 +51,18 @@ I build and experiment with **practical AI agents** that help with real work ins
       Agent-assisted workflow for debugging, refactoring, feature breakdowns, code review, and rapid prototyping.
       <br/><br/>
       <b>Proves:</b> AI-assisted engineering, product thinking, debugging, and faster full-stack delivery.<br/><br/>
-      <code>ChatGPT</code> <code>Claude</code> <code>Cursor</code> <code>My AI Agents</code> <code>Code Review</code>
     </td>
     <td width="33%">
       <b>AI Job Search Agent</b><br/><br/>
       Automation that scans job opportunities, filters roles by preferences, summarizes fit, compares requirements, and helps track applications.
       <br/><br/>
       <b>Proves:</b> workflow design, ranking/filtering logic, structured outputs, and practical automation.<br/><br/>
-      <code>LLMs</code> <code>Prompt Engineering</code> <code>APIs</code> <code>Workflow Logic</code> <code>Tracking</code>
     </td>
     <td width="33%">
       <b>AI Email Automation Agent</b><br/><br/>
       Agent concept for reading, summarizing, classifying, prioritizing, and helping draft replies to emails with clear context.
       <br/><br/>
       <b>Proves:</b> classification, summarization, natural-language workflows, and productivity automation.<br/><br/>
-      <code>LLMs</code> <code>Classification</code> <code>Summaries</code> <code>Reply Drafting</code> <code>Productivity</code>
     </td>
   </tr>
 </table>
