@@ -158,12 +158,6 @@ I use AI tools and agents to accelerate software development: debugging, generat
 
 ---
 
-### 🎯 Roles I’m Targeting
-
-`AI Automation Engineer` · `AI Workflow Engineer` · `AI Agent Developer` · `Junior AI Engineer` · `LLM Integration` · `AI Product Engineer` · `Full-Stack Developer with AI focus` · `Automation Developer`
-
----
-
 ---
 
 <p align="center">
